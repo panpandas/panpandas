@@ -63,7 +63,7 @@ Our Character Animation tool features:
 
 The Character Animation tool is ideal for visual storytellers, comic artists, indie game developers, and social media content creators looking to engage audiences with dynamic character presentations. Many users report that seeing their characters in motion helps them better understand how these characters would behave in various scenarios and adds a new dimension to their creative projects.
 
-### [Create Own OC](https://www.ocmaker.net/create-own-oc)
+### [Create Own OC](https://www.ocmaker.net/my-oc-maker)
 
 The **Create Own OC** tool is our most versatile character creation platform, combining AI-powered generation with detailed customization options. This comprehensive tool allows creators to build characters from scratch or import existing designs for enhancement and refinement.
 
@@ -113,7 +113,6 @@ The AI Character Chat offers:
 - **Voice Mode**: Hear your character speak with customizable voice settings
 - **100% Free & Unlimited**: Unlike alternatives like Perchance AI character chat or Character AI, our platform offers truly unlimited messaging with no restrictions
 - **No Message Limits**: Send as many messages as you want without daily caps or throttling
-- **Extensive Character Library**: Chat with characters from movies, anime, games, and more
 - **Custom Character Creation**: Create your own AI characters to chat with using our OC Generator
 - **NSFW Content Support**: Unlike other platforms, we don't restrict mature content conversations
 - **No Premium Tiers**: All features are available to all users with no paywalls
@@ -204,10 +203,9 @@ Visit [ocmaker.net](https://www.ocmaker.net/) to join our community of creators 
 
 ## 📱 Connect With OC Maker
 
-- **Twitter**: [@OCMaker](https://twitter.com/OCMaker)
-- **Instagram**: [@OCMakerApp](https://instagram.com/OCMakerApp)
-- **Discord**: [Join our 50,000+ member community](https://discord.gg/ocmaker)
-- **YouTube**: [OC Maker Tutorials & Showcases](https://youtube.com/ocmaker)
+- **Twitter**: [@OCMakerNet](https://twitter.com/OCMakerNet)
+- **Instagram**: [@OCMakerNet](https://instagram.com/OCMakerNet)
+- **Discord**: [Join our 50,000+ member community](https://discord.gg/J9hKcxjg)
 - **Blog**: [Character Creation Tips & Updates](https://www.ocmaker.net/blog)
 
 Have a feature suggestion? Click the "Suggest a Feature" button in our navigation menu to share your ideas and vote on upcoming developments!
